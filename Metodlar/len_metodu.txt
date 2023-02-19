@@ -1,0 +1,8 @@
+#Len fonksiyonu bizlere vermiş olduğumuz ifadenin boyutunu gösterir.
+
+
+a = "frradon"
+len(a)
+#7
+
+# Sonuçta vermiş olduğum "frradon" ifadesinin içerdiği karakter sayısının 7 olduğunu bildirdi. 
