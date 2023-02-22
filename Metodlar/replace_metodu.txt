@@ -1,0 +1,7 @@
+#replace fonksiyonu, önceden tanımlanmış içerikte bulunan karakterlerden istediğimizi değiştirmemizi sağlar.
+
+A= "FRRADON"
+A.replace("R", "A")
+#'FAAADON'
+
+#Gördüğünüz üzere tanımladığımız "FRRADON" değerindeki R harflerini .replace kullanarak A harfine çevirdik.
