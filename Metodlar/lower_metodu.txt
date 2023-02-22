@@ -1,0 +1,7 @@
+#lower fonksiyonu tanımladığımız değerlerdeki karakterlerin tamamını küçüğe çevirmemizi sağlar.
+
+a= "FRRADON"
+a.lower()
+#frradon
+
+#Sonuç olarak ilk başta tanımladığımız "FRRADON" değerini küçülterek "frradon" olarak değiştirdik.
