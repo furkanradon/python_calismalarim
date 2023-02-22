@@ -1,0 +1,8 @@
+Strip metodu tanımladığımız değerdeki istenmeyen karakterleri kırpma işlemini gerçekleştirir.
+
+A= "*FRRADON*"
+A.strip("*")
+#"FRRADON"
+
+
+#Sonuçta görüldüğü üzere ilk başta tanımlanan *FRRADON* ifadesinin * karakterlerini kırparak FRRADON ifadesine çevirdi.
