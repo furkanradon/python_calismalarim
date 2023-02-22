@@ -1,0 +1,7 @@
+#upper fonksiyonu tanımladığımız değerde bulunan karakterlerin tamamını büyük harfe çevirir.
+
+a = "frradon"
+a.upper()
+#FRRADON
+
+#Sonuçta gösterildiği üzere .upper komutu eklendikten sonra tanımlanan değerin tamamı büyük harfe çevirildi.
