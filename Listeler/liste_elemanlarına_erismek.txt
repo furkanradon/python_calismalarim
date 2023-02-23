@@ -1,0 +1,14 @@
+liste = [5, 10, 15, 20 , 25]
+liste[0]
+#5
+
+liste[1]
+#10
+
+liste[2]
+#15
+
+liste[3]
+#20
+
+#Şeklinde listelerin içerdikleri değerlere ulaşabiliriz.
