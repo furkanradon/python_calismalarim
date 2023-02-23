@@ -1,0 +1,8 @@
+#FLOAT DEĞİŞKENİ HAKKINDA
+
+a = 111.1 şeklindeki ondalıklı ifadeler float tipindedir.
+
+#Bir sayının float tipinde olduğunu teyit etmek için:
+#type("sayı") kullanılır. Örneğin:
+type(111.1)
+#float
