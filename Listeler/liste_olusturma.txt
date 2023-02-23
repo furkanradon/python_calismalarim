@@ -1,0 +1,5 @@
+# [] kullanılarak liste oluşturulabilir.
+# 4 öğrencinin notlarını listeleyelim.
+
+notlar = [ 90, 70, 60, 35 ]
+
