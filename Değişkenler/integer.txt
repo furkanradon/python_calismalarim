@@ -1,0 +1,12 @@
+#INTEGER DEĞİŞKENİ HAKKINDA
+
+A=100
+
+#Tamsayılar integer veri tipindedir.
+
+#Bir sayının integer veri tipinde olup olmadığını:
+
+#type(sayı) komutu ile öğrenebiliriz örneğin:
+
+type(100)
+#integer
