@@ -1,0 +1,8 @@
+# iki ya da daha fazla listeyi  birleştirme yöntemi:
+
+Notlar = [100, 90, 80, 70]
+Kişiler = ["Furkan", "Emre", "Seymen", "Nazif"]
+
+Yeni_Liste = [Notlar, Kişiler]
+print(Yeni_Liste)
+#[[100, 90, 80, 70], ['Furkan', 'Emre', 'Seymen', 'Nazif']]
