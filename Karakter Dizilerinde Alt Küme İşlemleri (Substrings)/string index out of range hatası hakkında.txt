@@ -1,0 +1,17 @@
+#IndexError: string index out of range uyarısı neden oluşur?
+
+A = "frradon" 
+# frradon tanımlı bir A değeri oluşturduk. frradon kelimesi 6 indeksten oluşur. 
+A[0] =f
+A[1] =r
+A[2] =r
+A[3] =a
+A[4] =d
+A[5] =o
+A[6] =n
+
+#olmak üzere 6 indeks mevcuttur.
+
+#fakat biz 6. indeksten fazla bir değer istemeye çalışırsak:
+A[7]
+#IndexError: string index out of range uyarısı ile karşılaşırız. Bunun sebebi "frradon" kelimesinin sadece 6 indeksten oluşmasıdır. İstenilecek maksimum indeks 6'dır.
