@@ -1,0 +1,6 @@
+#COMPLEX Hakkında:
+
+A= (1+e3) #tarzındaki karışık sayılardır.
+
+type(1+2j)
+#complex
