@@ -1,0 +1,13 @@
+A = "universite"
+
+A[0]
+#u
+
+A[1]
+#n
+
+A[0:3] #Sıfırıncı indeksten 3. indekse kadar olan kısmı almak için kullanırız
+#uni
+
+
+#İndeksleri tanımladığımız kelimedeki karakter sayısına göre veririz. Her kelime 0. indeksten başlar.
