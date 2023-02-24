@@ -1,0 +1,6 @@
+Liste = ["Hidrojen", "Helyum", "Çinko", "Berilyum"]
+del Liste[2]
+print(Liste)
+#['Hidrojen', 'Helyum', 'Berilyum']
+
+#Bu şekilde listedeki çinko elemanını listeden silebiliriz.
