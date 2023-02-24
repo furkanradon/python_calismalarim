@@ -1,0 +1,14 @@
+#Oluşturduğumuz listedeki bir değeri aşağıdaki yöntemleri kullanarak değiştirmemiz mümkündür.
+
+
+
+Liste = ["Hidrojen", "Helyum", "Lityum", "Bor"]
+Liste[3] = "Berilyum"
+print(Liste)
+#['Hidrojen', 'Helyum', 'Lityum', 'Berilyum']
+
+#Birden fazla eleman için
+
+Liste = ["Çinko", "Radon", "Oksijen", "Flor", "Neon"]
+Liste[0:2] = "Karbon", "Azot"
+print(Liste)
