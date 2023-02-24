@@ -1,0 +1,6 @@
+Liste = ["Hidrojen", "Helyum", "Lityum", "Berilyum"]
+Liste = Liste + ["Bor"]
+print (Liste)
+#['Hidrojen', 'Helyum', 'Lityum', 'Berilyum', 'Bor']
+
+#Bor elementini listeye bu şekilde ekleyebiliriz.
