@@ -1,0 +1,6 @@
+#insert metodu indekse göre listeye değer eklememizi sağlar.
+Liste = ["Furkan","Ömer", "Fatih"]
+Liste.insert(0,"Burak")
+print(Liste)
+#['Burak', 'Furkan', 'Ömer', 'Fatih']
+#Görüldüğü üzere 0. indekse "Burak" değerini eklememizle beraber listeye indekse bağlı değer ekleme işlemini gerçekleştirdik.
