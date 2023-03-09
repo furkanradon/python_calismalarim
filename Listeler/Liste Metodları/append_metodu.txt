@@ -1,0 +1,6 @@
+#append metodu listelere eleman eklemek için kullanılabilir.
+
+Liste = ["Furkan", "Ali", "Mertcan"]
+Liste.append("Fatih")
+print(Liste)
+#['Furkan', 'Ali', 'Mertcan', 'Fatih']
