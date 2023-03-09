@@ -1,0 +1,5 @@
+#count bize belirttiğimiz değerin listede kaç kez tekrarlandığını gösterir.
+Liste = ["1","1","1","1","1",]
+print(Liste.count("1"))
+#5
+#Bu şekilde listemizde 5 adet 1 bulunduğunu görebiliriz.
