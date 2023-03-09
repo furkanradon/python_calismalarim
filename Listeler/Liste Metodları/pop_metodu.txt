@@ -1,0 +1,6 @@
+#pop metodu indekse göre listeden eleman kaldırmamızı sağlar.
+Liste = ["Mahmut", "Furkan", "Fatih", "Seymen", "Emre"]
+Liste.pop(0)
+print(Liste)
+#['Furkan', 'Fatih', 'Seymen', 'Emre']
+#Görüldüğü üzere listenin ilk elemanı olan "Mahmut" değerini bu şekilde listeden kaldırabiliriz.
