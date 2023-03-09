@@ -1,4 +1,4 @@
-#append metodu listelere eleman eklemek için kullanılabilir.
+#append metodu listelere eleman eklemek için kullanılabilir. Yeniden atama işlemi yapmadan değer ekleyebilmemizi sağlar.
 
 Liste = ["Furkan", "Ali", "Mertcan"]
 Liste.append("Fatih")
