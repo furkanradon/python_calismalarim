@@ -1,0 +1,5 @@
+#Remove metodu listeden değer kaldırmamızı sağlar.
+Liste = ["Furkan", "Emre","Seymen", "Mahmut"]
+Liste.remove("Mahmut")
+print(Liste)
+#['Furkan', 'Emre', 'Seymen']
