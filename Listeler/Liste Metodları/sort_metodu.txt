@@ -1,0 +1,7 @@
+#sort metodu listeyi küçükten büyüğe sıralamamızı sağlar.
+
+
+liste = ["1", "137", "123", "12"]
+liste.sort()
+print(liste)
+['1', '12', '123', '137']
