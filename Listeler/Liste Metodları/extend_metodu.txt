@@ -1,0 +1,6 @@
+#extend metodu listelere değer eklememizi sağlar.
+
+liste = ["a","b","c"]
+liste.extend(["d","e","f"])
+print(liste)
+#['a', 'b', 'c', 'd', 'e', 'f']
