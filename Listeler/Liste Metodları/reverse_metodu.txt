@@ -1,0 +1,6 @@
+#liste elemanlarını ters çevirmek için kullanılır.
+
+list = ["a", "b", "c", "d", "e", "f"]
+list.reverse()
+print(list)
+#['f', 'e', 'd', 'c', 'b', 'a']
