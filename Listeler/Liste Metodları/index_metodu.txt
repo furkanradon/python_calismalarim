@@ -1,0 +1,13 @@
+#index metodu bize sorduğumuz değerin kaçıncı indexte olduğunu gösterir.
+
+list = ["a", "b", "c", "d", "e", "f"]
+print(list.index("a"))
+#0
+
+list = ["a", "b", "c", "d", "e", "f"]
+print(list.index("b"))
+#1
+
+list = ["a", "b", "c", "d", "e", "f"]
+print(list.index("f"))
+#5
