@@ -1,0 +1,6 @@
+#copy metodu bir listeyi kopyalamak için kullanılabilir.
+
+Liste= ["Furkan", "Ramiz", "Sami"]
+Liste_yedek = Liste.copy()
+print(Liste_yedek)
+#['Furkan', 'Ramiz', 'Sami']
