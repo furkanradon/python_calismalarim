@@ -1,0 +1,6 @@
+#clear metodu listeyi temizlememizi sağlar.
+
+liste = ["12", "23", "112", "13"]
+liste.clear()
+print(liste)
+#[]
